@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning concept of dsa in c++
 - 💞️ I’m looking to collaborate on project that can enhance my field of knowledge in dsa
 - 📫 How to reach me-
-                      my email id == rawatsumit2624@gmail.com
-                      my linkedin profile -- www.linkedin.com/in/sumit-rawat-87a11a273
+  
+     my email id == rawatsumit2624@gmail.com
+     my linkedin profile == www.linkedin.com/in/sumit-rawat-87a11a273
 
 

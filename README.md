@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit11rawat&label=Profile%20views&color=0e75b6&style=flat" alt="sumit11rawat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit11rawat" alt="sumit11rawat" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![Uploading image.png…]()
+" alt="sumit11rawat" /></a> </p>
 
 - 🌱 I’m currently learning **DSA with some development**
 

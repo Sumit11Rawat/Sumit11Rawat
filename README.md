@@ -13,7 +13,7 @@
 - 📫 How to reach me **rawatsumit2624@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcoding-programming-ninjas-CcwLAV11cALh3OuEJ5&psig=AOvVaw1Nu8wiGQMH8LAoQ0MQdA_X&ust=1704542510376000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD9hOmZxoMDFQAAAAAdAAAAABAY"
+<img align="right" alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKiranism&psig=AOvVaw1ViFMB5psuFn5vlMkO8siq&ust=1704780157781000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjtgJGPzYMDFQAAAAAdAAAAABAn"cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD9hOmZxoMDFQAAAAAdAAAAABAY"
 <p align="left">
 </p>
 

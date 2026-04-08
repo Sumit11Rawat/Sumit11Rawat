@@ -18,17 +18,17 @@
 </p>
 
 ---
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 ></h2>👨‍💻 About Me</h2>
 
-<p align="center">
-  Hi! I’m <b>Sumit Singh Rawat</b>, a passionate <b>Competitive Programmer</b> and <b>Web Developer</b>, 
-  currently pursuing my <b>B.Tech in Computer Science Engineering</b> from 
-  <b>Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwarahat</b>.
+<p >
+  Hi! I’m Sumit Singh Rawat, a passionate Competitive Programmer and Web Developer, 
+  currently pursuing my B.Tech in Computer Science Engineering from 
+  Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwaraha.
 </p>
 
-<p align="center">
+<p >
   I am driven by curiosity and a strong interest in technology, actively working on 
-  <b>real-world projects</b> and continuously improving my problem-solving skills through coding.
+  real-world projects and continuously improving my problem-solving skills through coding.
 </p>
 
 <ul>

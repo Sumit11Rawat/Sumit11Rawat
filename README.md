@@ -18,7 +18,7 @@
 </p>
 
 ---
-<h2 ></h2>👨‍💻 About Me</h2>
+<h1>👨‍💻 About Me</h1>
 
 <p >
   Hi! I’m Sumit Singh Rawat, a passionate Competitive Programmer and Web Developer, 

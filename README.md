@@ -18,10 +18,18 @@
 </p>
 
 ---
+👨‍💻 About Me
 
-- 🌱 I’m currently learning **DSA with Development**
-- 👯 I’m looking to collaborate on **projects that enhance my programming skills**
-- 📫 Reach me at **rawatsumit2624@gmail.com**
+Hi! I’m Sumit Singh Rawat, a passionate competitive programmer and web developer, currently pursuing my B.Tech in Computer Science Engineering from Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwarahat.
+
+I am driven by curiosity and a strong interest in technology, actively working on real-world projects and continuously improving my problem-solving skills through coding.
+
+🎓 B.Tech in Computer Science Engineering from BTKIT, Dwarahat
+💻 Passionate about Web Development and building scalable applications
+🧠 Dedicated Competitive Programmer, focused on improving DSA skills
+🚀 Currently working on projects to gain practical experience
+🌱 Always learning and exploring new technologies
+💬 Ask me about JavaScript, React, and DSA
 
 ---
 

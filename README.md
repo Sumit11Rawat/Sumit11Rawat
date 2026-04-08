@@ -18,18 +18,33 @@
 </p>
 
 ---
-👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-Hi! I’m Sumit Singh Rawat, a passionate competitive programmer and web developer, currently pursuing my B.Tech in Computer Science Engineering from Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwarahat.
+<p align="center">
+  Hi! I’m <b>Sumit Singh Rawat</b>, a passionate <b>Competitive Programmer</b> and <b>Web Developer</b>, 
+  currently pursuing my <b>B.Tech in Computer Science Engineering</b> from 
+  <b>Bipin Tripathi Kumaon Institute of Technology (BTKIT), Dwarahat</b>.
+</p>
 
-I am driven by curiosity and a strong interest in technology, actively working on real-world projects and continuously improving my problem-solving skills through coding.
+<p align="center">
+  I am driven by curiosity and a strong interest in technology, actively working on 
+  <b>real-world projects</b> and continuously improving my problem-solving skills through coding.
+</p>
 
-🎓 B.Tech in Computer Science Engineering from BTKIT, Dwarahat
-💻 Passionate about Web Development and building scalable applications
-🧠 Dedicated Competitive Programmer, focused on improving DSA skills
-🚀 Currently working on projects to gain practical experience
-🌱 Always learning and exploring new technologies
-💬 Ask me about JavaScript, React, and DSA
+<ul>
+  <li>🎓 B.Tech in <b>Computer Science Engineering</b> from <b>BTKIT, Dwarahat</b></li>
+  <li>💻 Passionate about <b>Web Development</b> and building scalable applications</li>
+  <li>🧠 Dedicated <b>Competitive Programmer</b>, focused on improving DSA skills</li>
+  <li>🚀 Currently <b>working on projects</b> to gain practical experience</li>
+  <li>🌱 Always learning and exploring new technologies</li>
+  <li>💬 Ask me about <b>JavaScript, React, and DSA</b></li>
+</ul>
+
+<hr>
+
+<p align="center">
+  ⭐ Always striving to learn, build, and grow in tech!
+</p>
 
 ---
 

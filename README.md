@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=800&center=true&vCenter=true&width=900&color=38BDF8&lines=Priviet+%F0%9F%91%8B+Hi,+I'm+Sumit+Rawat;Full+Stack+Developer;DSA+Enthusiast;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=800&center=true&vCenter=true&width=900&color=38BDF8&lines=Priviet+%F0%9F%91%8B+I'm+Sumit+Singh+Rawat" />
 </h1>
 <h3 align="center">A passionate programmer from India</h3>
 
